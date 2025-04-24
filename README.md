@@ -1,2 +1,2 @@
 # competitive-coding
-Hi there! This page has nothing to see
+Hi there! There is nothing to see here
